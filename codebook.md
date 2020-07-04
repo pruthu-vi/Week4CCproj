@@ -1,16 +1,12 @@
 # Explain
-
 During this cleaning there was no new variables insertion. The variables meaning are extracted from the original file "features_info.txt"
 
 ## variables explained
 
--subject: experimental subject identifier. Values between 1 and 30
-
--activity: activity that the subject was doing during the observation
-
--time bodyacc mean x,y,z: mean body accelerometer in time domain on the 3 axes.
-
--time bodyacc std x,y,z: standard deviation of body accelerometer in time domain on the 3 axes.
+*subject: experimental subject identifier. Values between 1 and 30
+*activity: activity that the subject was doing during the observation
+*time bodyacc mean x,y,z: mean body accelerometer in time domain on the 3 axes.
+*time bodyacc std x,y,z: standard deviation of body accelerometer in time domain on the 3 axes.
 
 -time gravityacc mean x,y,z: mean gravity accelerometer in time domain on the 3 axes.
 
